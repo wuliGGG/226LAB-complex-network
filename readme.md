@@ -12,6 +12,6 @@
 4. https://iopscience.iop.org/
 5. https://link.springer.com/
 
-期刊评估：[[最新SCI期刊查询及投稿分析系统（2019-2020年） - LetPub](https://www.letpub.com.cn/index.php?page=journalapp)]()
+期刊评估：[最新SCI期刊查询及投稿分析系统（2019-2020年） - LetPub](https://www.letpub.com.cn/index.php?page=journalapp)
 
-通用检索：[[谷歌学术](https://scholar.google.com/)](https://scholar.google.com/)
+通用检索：[谷歌学术](https://scholar.google.com/)
